@@ -34,11 +34,7 @@ Create a Cocos Creator project and enable the Agora Service in your project with
 
    ![](https://web-cdn.agora.io/docs-files/1562297897751)
 	 
-4. Follow the on-screen instructions and click **open service**.
-
-   ![](https://web-cdn.agora.io/docs-files/1562229434363)
-	 
-5. Upon opening the service, the following window appears. Click **console** to go to Agora **Console**. 
+4. Click **Dashboard** button in the panel to go to Agora **Console**. 
 
 	![](https://web-cdn.agora.io/docs-files/1562229467151)
 
