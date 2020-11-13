@@ -30,15 +30,11 @@ updatedAt: Mon Feb 24 2020 07:10:55 GMT+0800 (CST)
 	 
 	 ![](https://web-cdn.agora.io/docs-files/1562140613043)
 	 
-3. 在 **Agora Voice** 面板中点击**启用**按钮，然后在屏幕弹框中点击**确定**。
+3. 在 **Agora Voice** 面板中点击**启用**按钮，在屏幕弹框中点击**确定**，确认开通服务。
 
 	 ![](https://web-cdn.agora.io/docs-files/1562140700136)
 	 
-4. 根据屏幕提示**确认开通** Agora Service 服务。
-
-   ![](https://web-cdn.agora.io/docs-files/1554980416623)
-	 
-5. 开通后，你会在屏幕上看到如下界面。点击**前往控制台**，进入声网控制台。
+4. 在面板中点击**前往控制台**按钮，进入声网控制台。
 
    ![](https://web-cdn.agora.io/docs-files/1554980505910)
 	 
